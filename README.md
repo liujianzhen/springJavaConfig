@@ -1,1 +1,2 @@
 # springJavaConfig
+一个最简单的使用javaConfig来配置的spring使用例子
